@@ -48,3 +48,5 @@ Selected achievements
 - Excellence Scholarship, Catholic University of Bukavu
 
 I am committed to using data, modeling, and artificial intelligence to contribute to impactful research and practical innovation.
+
+[Download my CV (PDF)](/files/Ernest-Katembo-Muhasa-CV.pdf){: .btn .btn--primary}

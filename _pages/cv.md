@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my full CV (PDF)](/files/Ernest-Katembo-Muhasa-CV.pdf){: .btn .btn--primary}
+
 Education
 ======
 * Master in Mathematical Sciences, Mathematical Epidemiology, African Institute for Mathematical Sciences (AIMS), Cameroon, expected 2025–2027
