@@ -23,7 +23,7 @@ repository               : "ernestka/ernestka"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Ernest Katembo Muhasa"
   pronouns         : # example: "she/her"  
   bio              : "Master's student in Mathematical Sciences (Mathematical Epidemiology) at AIMS Cameroon; interested in AI, data science, and applied research."
