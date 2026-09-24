@@ -11,54 +11,45 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master in Mathematical Sciences, Mathematical Epidemiology, African Institute for Mathematical Sciences (AIMS), Cameroon, expected 2025–2027
+* Bachelor of Science in Computer Science, Catholic University of Bukavu, 2018–2023
 
-Work experience
+Research and professional experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research assistant / data science intern, applied to machine learning, AI, and data analysis projects
+  * Focus on data-driven modeling, prediction, and experimental analysis
+  * Applied tools including Python, scientific computing, and analytical workflows
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Tutoring assistant, Computer Science, Catholic University of Bukavu
+  * Supporting students in programming and computational learning
+  * Helping with practical understanding of coding and data-related concepts
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+Leadership and community involvement
+======
+* Member and contributor, Google Developer Groups Kivu
+* Member and contributor, Veilleurs du Web RDC
+* Active in student organizations and community-driven technology initiatives
+
+Selected achievements
+======
+* Mastercard Scholarship at AIMS Cameroon, 2025–2027
+* Google Career Certificate Scholarship (GCCS), 2021–2023
+* Certificate of Merit, Catholic University of Bukavu, 2023
+* Excellence Scholarship, Catholic University of Bukavu
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data analysis and visualization
+* Machine learning and deep learning
+* Computer vision and AI techniques
+* Programming: Python, R, JavaScript
+* Research and analytical skills
+* Written and verbal communication
+* Languages: English (Advanced), French (Advanced), Lingala, Swahili (native)
 
-Publications
+Research interests
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Machine learning, deep learning, and computer vision
+* Mathematical epidemiology and disease modeling
+* Data analysis, visualization, and predictive modeling
+* Applied artificial intelligence for health and social challenges
